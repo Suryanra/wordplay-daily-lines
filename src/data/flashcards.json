@@ -1,17 +1,76 @@
-
 {
   "cards": [
     {
       "id": 1,
-      "incorrect": "I have went to the store yesterday.",
-      "correct": "I went to the store yesterday.",
-      "explanation": "Use the simple past tense 'went' without 'have' for a specific time in the past."
+      "incorrect": "I usually, I don't think I have a hobby, but it's like I love to read Sairis poetries in Hindi, but also in English.",
+      "correct": "I don't think I have a specific hobby, but I love reading Shayari and poetry, both in Hindi and English.",
+      "explanation": "Remove confusing words and correct 'Sairis poetries' to 'Shayari and poetry'."
     },
     {
       "id": 2,
-      "incorrect": "She don't like coffee.",
-      "correct": "She doesn't like coffee.",
-      "explanation": "Use 'doesn't' for third-person singular (he/she/it) in present tense."
+      "incorrect": "Maximum, I think I love movies like romantic movies and also thriller movies like Andar Un Banal.",
+      "correct": "I mostly love romantic and thriller movies, like Andhadhun by Ayushmann Khurrana.",
+      "explanation": "Replace 'Maximum' with 'mostly' and correct the movie name."
+    },
+    {
+      "id": 3,
+      "incorrect": "The biggest inspiration, if I think,",
+      "correct": "If I think about the biggest inspiration, then...",
+      "explanation": "Complete the sentence for clarity."
+    },
+    {
+      "id": 4,
+      "incorrect": "So if I think about it, the movie that inspires me most is Chhava.",
+      "correct": "If I think about it, the movie that inspires me the most is Chhava.",
+      "explanation": "Add 'the' before 'most' for correct English."
+    },
+    {
+      "id": 5,
+      "incorrect": "It's like bravery that is used against the biggest emperor at that time, who is very rude, cruel. But he never loses the hope that he can fight with that person. And he never accepts the losement.",
+      "correct": "It shows bravery against the biggest emperor of that time, who was very cruel. But he never lost hope that he could fight him, and he never accepted defeat.",
+      "explanation": "Make the sentence smoother and correct wrong words like 'losement' to 'defeat'."
+    },
+    {
+      "id": 6,
+      "incorrect": "Oh yeah, Maharana Pratap, he is my biggest inspiration.",
+      "correct": "Oh yes, Maharana Pratap is my biggest inspiration.",
+      "explanation": "Avoid repeating the subject unnecessarily."
+    },
+    {
+      "id": 7,
+      "incorrect": "Before I begin to give answer, I just request you to please save my conversation.",
+      "correct": "Before I continue, I would like to request you to save our conversation.",
+      "explanation": "Make the sentence natural and smoother."
+    },
+    {
+      "id": 8,
+      "incorrect": "I have not got the chance to visit Haldighati or Udaipur.",
+      "correct": "I haven’t had the chance to visit Haldighati or Udaipur yet.",
+      "explanation": "Use 'haven't had' for smoother tense expression."
+    },
+    {
+      "id": 9,
+      "incorrect": "But yes, I love to visit the historical places like in Maharashtra, currently I am doing Bachelor's.",
+      "correct": "But yes, I love visiting historical places. Currently, I am pursuing my Bachelor's degree in Maharashtra.",
+      "explanation": "Break into two sentences for clarity and correct article use."
+    },
+    {
+      "id": 10,
+      "incorrect": "When I get, I mean, I'm currently searching for the internship and jobs, when I get a job, then definitely I will love to...",
+      "correct": "Right now, I am searching for internships and jobs. Once I get a job, I would definitely love to...",
+      "explanation": "Remove repetition and organize thoughts clearly."
+    },
+    {
+      "id": 11,
+      "incorrect": "Yes, yes, when I get a job, then definitely I will love to first of all, I will go to Udaipur and Haldighati.",
+      "correct": "Yes, once I get a job, the first place I want to visit is Udaipur and Haldighati.",
+      "explanation": "Simplify sentence structure for natural flow."
+    },
+    {
+      "id": 12,
+      "incorrect": "Now I want to close this conversation and want the summary so that now I have certain work to complete.",
+      "correct": "Now I would like to end this conversation because I have some work to complete.",
+      "explanation": "Remove repetition of 'now' and use 'some work' instead of 'certain work'."
     }
   ]
 }
