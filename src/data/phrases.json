@@ -1,0 +1,25 @@
+
+{
+  "phrases": [
+    {
+      "id": 1,
+      "phrase": "Beat around the bush",
+      "meaning": "To avoid talking about something directly",
+      "examples": [
+        "Stop beating around the bush and tell me what happened.",
+        "He always beats around the bush during difficult conversations.",
+        "Let's not beat around the bush - we need to discuss this now."
+      ]
+    },
+    {
+      "id": 2,
+      "phrase": "Cut to the chase",
+      "meaning": "Get to the point without wasting time",
+      "examples": [
+        "Let's cut to the chase - are you interested in the offer?",
+        "She cut to the chase and asked for a raise.",
+        "Without cutting to the chase, the meeting dragged on."
+      ]
+    }
+  ]
+}

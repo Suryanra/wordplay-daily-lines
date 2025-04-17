@@ -1,0 +1,17 @@
+
+{
+  "cards": [
+    {
+      "id": 1,
+      "incorrect": "I have went to the store yesterday.",
+      "correct": "I went to the store yesterday.",
+      "explanation": "Use the simple past tense 'went' without 'have' for a specific time in the past."
+    },
+    {
+      "id": 2,
+      "incorrect": "She don't like coffee.",
+      "correct": "She doesn't like coffee.",
+      "explanation": "Use 'doesn't' for third-person singular (he/she/it) in present tense."
+    }
+  ]
+}

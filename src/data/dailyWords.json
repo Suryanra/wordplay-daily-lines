@@ -1,0 +1,25 @@
+
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "resilient",
+      "definition": "able to recover quickly from difficulties",
+      "examples": [
+        "She is a resilient person who never gives up.",
+        "The resilient plant survived despite harsh conditions.",
+        "His resilient spirit helped him overcome challenges."
+      ]
+    },
+    {
+      "id": 2,
+      "word": "endeavor",
+      "definition": "try hard to achieve something",
+      "examples": [
+        "I will endeavor to finish this project on time.",
+        "Their endeavor to climb the mountain was successful.",
+        "She continues to endeavor towards her goals."
+      ]
+    }
+  ]
+}

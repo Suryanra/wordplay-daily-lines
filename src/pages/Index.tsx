@@ -1,12 +1,20 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+
+import DailyWords from "@/components/DailyWords";
+import Phrases from "@/components/Phrases";
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-gray-600">Start building your amazing project here!</p>
-      </div>
+    <div className="space-y-12">
+      <header className="text-center mb-12">
+        <h1 className="text-4xl font-outfit font-bold text-gray-900 mb-4">
+          Improve Your English
+        </h1>
+        <p className="text-gray-600 max-w-2xl mx-auto">
+          Explore daily words, common phrases, and practice your speaking with interactive flashcards.
+        </p>
+      </header>
+      <DailyWords />
+      <Phrases />
     </div>
   );
 };
