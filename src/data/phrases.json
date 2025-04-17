@@ -1,24 +1,73 @@
-
 {
   "phrases": [
     {
       "id": 1,
-      "phrase": "Beat around the bush",
-      "meaning": "To avoid talking about something directly",
+      "phrase": "To be honest",
+      "meaning": "When giving your real opinion",
       "examples": [
-        "Stop beating around the bush and tell me what happened.",
-        "He always beats around the bush during difficult conversations.",
-        "Let's not beat around the bush - we need to discuss this now."
+        "To be honest, I love visiting historical places.",
+        "To be honest, I find poetry very soothing.",
+        "To be honest, I haven't traveled much yet."
       ]
     },
     {
       "id": 2,
-      "phrase": "Cut to the chase",
-      "meaning": "Get to the point without wasting time",
+      "phrase": "I would love to",
+      "meaning": "When you really want to do something",
       "examples": [
-        "Let's cut to the chase - are you interested in the offer?",
-        "She cut to the chase and asked for a raise.",
-        "Without cutting to the chase, the meeting dragged on."
+        "I would love to visit Udaipur someday.",
+        "I would love to meet historians and writers.",
+        "I would love to explore ancient forts in Maharashtra."
+      ]
+    },
+    {
+      "id": 3,
+      "phrase": "I'm passionate about",
+      "meaning": "When you love something deeply",
+      "examples": [
+        "I'm passionate about reading poetry.",
+        "I'm passionate about history and culture.",
+        "I'm passionate about learning new languages."
+      ]
+    },
+    {
+      "id": 4,
+      "phrase": "It inspires me a lot",
+      "meaning": "Talking about something motivational",
+      "examples": [
+        "The bravery of Maharana Pratap inspires me a lot.",
+        "Reading about great warriors inspires me a lot.",
+        "Visiting historical places inspires me a lot."
+      ]
+    },
+    {
+      "id": 5,
+      "phrase": "I can't recall right now",
+      "meaning": "When you forget something",
+      "examples": [
+        "I can't recall the movie name right now.",
+        "I can't recall the fort's name at the moment.",
+        "I can't recall the author's name right now."
+      ]
+    },
+    {
+      "id": 6,
+      "phrase": "In my opinion",
+      "meaning": "When sharing your view",
+      "examples": [
+        "In my opinion, historical movies are very inspiring.",
+        "In my opinion, reading poetry builds emotional strength.",
+        "In my opinion, traveling helps you learn history better."
+      ]
+    },
+    {
+      "id": 7,
+      "phrase": "At the moment",
+      "meaning": "Talking about your current situation",
+      "examples": [
+        "At the moment, I'm searching for internships.",
+        "At the moment, I'm focusing on my studies.",
+        "At the moment, I am planning my future travels."
       ]
     }
   ]
