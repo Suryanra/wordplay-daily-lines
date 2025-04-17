@@ -1,24 +1,73 @@
-
 {
   "words": [
     {
       "id": 1,
-      "word": "resilient",
-      "definition": "able to recover quickly from difficulties",
+      "word": "motivated",
+      "definition": "feeling enthusiastic or determined to achieve something",
       "examples": [
-        "She is a resilient person who never gives up.",
-        "The resilient plant survived despite harsh conditions.",
-        "His resilient spirit helped him overcome challenges."
+        "I feel motivated after watching that inspirational movie.",
+        "He stayed motivated during tough times.",
+        "A motivated person can achieve anything they dream of."
       ]
     },
     {
       "id": 2,
-      "word": "endeavor",
-      "definition": "try hard to achieve something",
+      "word": "determined",
+      "definition": "having made a firm decision and being resolved not to change it",
       "examples": [
-        "I will endeavor to finish this project on time.",
-        "Their endeavor to climb the mountain was successful.",
-        "She continues to endeavor towards her goals."
+        "She was determined to win the competition.",
+        "Despite failures, he remained determined to succeed.",
+        "A determined mind can overcome any obstacle."
+      ]
+    },
+    {
+      "id": 3,
+      "word": "victory",
+      "definition": "an act of defeating an enemy or opponent",
+      "examples": [
+        "The team celebrated their victory with great joy.",
+        "Victory often comes after many failures.",
+        "His first victory was a turning point in his career."
+      ]
+    },
+    {
+      "id": 4,
+      "word": "legacy",
+      "definition": "something that is left behind by someone after they are gone",
+      "examples": [
+        "Maharana Pratap left behind a powerful legacy.",
+        "The legacy of great leaders inspires generations.",
+        "She wants to leave a positive legacy through her work."
+      ]
+    },
+    {
+      "id": 5,
+      "word": "admirable",
+      "definition": "deserving respect and approval",
+      "examples": [
+        "His bravery in the battle was admirable.",
+        "Helping others is an admirable quality.",
+        "She did an admirable job leading the project."
+      ]
+    },
+    {
+      "id": 6,
+      "word": "courage",
+      "definition": "the ability to do something that frightens one",
+      "examples": [
+        "It takes courage to speak the truth.",
+        "He showed great courage in facing the challenges.",
+        "Courage is the first step toward success."
+      ]
+    },
+    {
+      "id": 7,
+      "word": "journey",
+      "definition": "an act of traveling from one place to another; a process of learning or growing",
+      "examples": [
+        "Life is a beautiful journey full of surprises.",
+        "Their journey across the desert was difficult but memorable.",
+        "Success is not a destination, it’s a journey."
       ]
     }
   ]
