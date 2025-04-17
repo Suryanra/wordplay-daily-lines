@@ -23,9 +23,9 @@ const App = () => (
             <div className="container mx-auto px-4 py-4">
               <div className="flex items-center justify-between">
                 <Link to="/" className="text-xl font-outfit font-semibold text-gray-900">
-                  English Learning
+                 Surya 
                 </Link>
-                <div className="flex gap-6">
+{/*                 <div className="flex gap-6">
                   <Link to="/daily-words" className="flex items-center gap-2 text-gray-600 hover:text-blue-600">
                     <BookOpenText className="h-5 w-5" />
                     <span>Learn</span>
@@ -38,7 +38,7 @@ const App = () => (
                     <SquareStack className="h-5 w-5" />
                     <span>Practice</span>
                   </Link>
-                </div>
+                </div> */}
               </div>
             </div>
           </nav>
