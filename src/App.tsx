@@ -4,7 +4,7 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-import { BookOpenText, MessageSquare, Cards } from "lucide-react";
+import { BookOpenText, MessageSquare, CardStack } from "lucide-react";
 import Index from "./pages/Index";
 import Flashcards from "./components/Flashcards";
 
@@ -29,7 +29,7 @@ const App = () => (
                     <span>Learn</span>
                   </Link>
                   <Link to="/flashcards" className="flex items-center gap-2 text-gray-600 hover:text-blue-600">
-                    <Cards className="h-5 w-5" />
+                    <CardStack className="h-5 w-5" />
                     <span>Practice</span>
                   </Link>
                 </div>

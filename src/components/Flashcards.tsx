@@ -1,7 +1,7 @@
 
 import { useState } from 'react';
 import { Card, CardContent } from "@/components/ui/card";
-import { Cards } from "lucide-react";
+import { CardStack } from "lucide-react";
 import flashcardsData from '../data/flashcards.json';
 
 const Flashcards = () => {
@@ -16,7 +16,7 @@ const Flashcards = () => {
   return (
     <div className="space-y-6">
       <h2 className="text-2xl font-outfit font-semibold flex items-center gap-2">
-        <Cards className="h-6 w-6" />
+        <CardStack className="h-6 w-6" />
         Practice Cards
       </h2>
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
