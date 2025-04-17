@@ -69,6 +69,107 @@
         "At the moment, I'm focusing on my studies.",
         "At the moment, I am planning my future travels."
       ]
+    },
+     {
+      "id": 8,
+      "phrase": "That's a great question",
+      "meaning": "Used to compliment a good question and think before answering",
+      "examples": [
+        "That's a great question — let me think for a second.",
+        "That's a great question, I would say history inspires me most.",
+        "That's a great question, and it's hard to answer immediately."
+      ]
+    },
+    {
+      "id": 9,
+      "phrase": "If I'm not wrong",
+      "meaning": "When you are unsure but want to say something",
+      "examples": [
+        "If I'm not wrong, that fort is in Pune.",
+        "If I'm not wrong, Maharana Pratap fought in Haldighati.",
+        "If I'm not wrong, the movie released last year."
+      ]
+    },
+    {
+      "id": 10,
+      "phrase": "As far as I know",
+      "meaning": "When you share information you're mostly sure about",
+      "examples": [
+        "As far as I know, Udaipur is a beautiful city.",
+        "As far as I know, the battle was very intense.",
+        "As far as I know, that temple is ancient."
+      ]
+    },
+    {
+      "id": 11,
+      "phrase": "Let me put it this way",
+      "meaning": "Used to explain something more clearly",
+      "examples": [
+        "Let me put it this way — history shapes our future.",
+        "Let me put it this way — poetry heals emotions.",
+        "Let me put it this way — traveling teaches you lessons."
+      ]
+    },
+    {
+      "id": 12,
+      "phrase": "At the end of the day",
+      "meaning": "Meaning 'finally' or 'after everything is considered'",
+      "examples": [
+        "At the end of the day, hard work always wins.",
+        "At the end of the day, history teaches us bravery.",
+        "At the end of the day, dreams push us forward."
+      ]
+    },
+    {
+      "id": 13,
+      "phrase": "Speaking of which",
+      "meaning": "Used to connect something related",
+      "examples": [
+        "I love forts. Speaking of which, have you been to Sinhagad?",
+        "I enjoy poetry. Speaking of which, I found a new book.",
+        "I want to travel. Speaking of which, flights are cheap now."
+      ]
+    },
+    {
+      "id": 14,
+      "phrase": "To be fair",
+      "meaning": "When giving a balanced or honest opinion",
+      "examples": [
+        "To be fair, both sides were brave in the battle.",
+        "To be fair, the movie had good acting but poor story.",
+        "To be fair, history is hard but very interesting."
+      ]
+    },
+    {
+      "id": 15,
+      "phrase": "More or less",
+      "meaning": "Approximately or almost",
+      "examples": [
+        "The fort is more or less 500 years old.",
+        "We have more or less finished the project.",
+        "The trip will take more or less four hours."
+      ]
+    },
+    {
+      "id": 16,
+      "phrase": "From my perspective",
+      "meaning": "From my point of view",
+      "examples": [
+        "From my perspective, visiting forts is very educational.",
+        "From my perspective, poetry connects hearts.",
+        "From my perspective, bravery is timeless."
+      ]
+    },
+    {
+      "id": 17,
+      "phrase": "Off the top of my head",
+      "meaning": "Without thinking deeply, immediate answer",
+      "examples": [
+        "Off the top of my head, I think the movie was released in 2022.",
+        "Off the top of my head, the fort's name is Sinhagad.",
+        "Off the top of my head, I'd say history is my favorite subject."
+      ]
     }
+    
   ]
 }
