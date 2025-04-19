@@ -71,6 +71,24 @@
       "incorrect": "Now I want to close this conversation and want the summary so that now I have certain work to complete.",
       "correct": "Now I would like to end this conversation because I have some work to complete.",
       "explanation": "Remove repetition of 'now' and use 'some work' instead of 'certain work'."
+    },
+    {
+      "id": 13,
+      "incorrect": "I have wake up on 9 a.m.",
+      "correct": "I woke up at 9 a.m.",
+      "explanation": "Use the simple past tense 'woke up' when talking about a finished action in the past."
+    },
+    {
+      "id": 14,
+      "incorrect": "Then I have go to mess.",
+      "correct": "Then I went to the mess.",
+      "explanation": "Use 'went' (past tense) instead of 'have go' for a completed past action."
+    },
+    {
+      "id": 15,
+      "incorrect": "I love Mahesh Babu movies and I like him definitely as an actor.",
+      "correct": "I definitely love Mahesh Babu’s movies and admire him as an actor.",
+      "explanation": "This sounds smoother and more natural by reorganizing the words."
     }
   ]
 }
