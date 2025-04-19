@@ -169,6 +169,35 @@
         "Off the top of my head, the fort's name is Sinhagad.",
         "Off the top of my head, I'd say history is my favorite subject."
       ]
+    }, {
+      "id": 18,
+      "phrase": "Enjoy every moment",
+      "meaning": "To live life fully without regrets, appreciating each experience",
+      "examples": [
+        "Dil Bechara teaches us to enjoy every moment.",
+        "You should enjoy every moment with your family.",
+        "Life is short, so enjoy every moment."
+      ]
+    },
+    {
+      "id": 19,
+      "phrase": "Positive impact",
+      "meaning": "An influence that brings good changes or feelings",
+      "examples": [
+        "Movies like 3 Idiots have a positive impact on me.",
+        "Teachers can have a positive impact on their students.",
+        "Traveling had a positive impact on his mindset."
+      ]
+    },
+    {
+      "id": 20,
+      "phrase": "Broaden your perspective",
+      "meaning": "To open your mind to new ideas and experiences",
+      "examples": [
+        "Watching different kinds of movies can broaden your perspective.",
+        "Reading books helps broaden your perspective.",
+        "Traveling to new countries broadens your perspective."
+      ]
     }
     
   ]
