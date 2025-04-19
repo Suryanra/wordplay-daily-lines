@@ -69,6 +69,36 @@
         "Their journey across the desert was difficult but memorable.",
         "Success is not a destination, it’s a journey."
       ]
+    },
+     {
+      "id": 8,
+      "word": "motivation",
+      "definition": "the reason or reasons one has for acting or behaving in a particular way",
+      "examples": [
+        "Watching 3 Idiots gives me a lot of motivation.",
+        "Motivation helps people keep moving even in hard times.",
+        "He found motivation in his dream to become a doctor."
+      ]
+    },
+    {
+      "id": 9,
+      "word": "perspective",
+      "definition": "a particular way of thinking about something",
+      "examples": [
+        "Watching realistic movies gives me a new perspective on life.",
+        "Traveling can broaden your perspective.",
+        "It's important to see things from another person's perspective."
+      ]
+    },
+    {
+      "id": 10,
+      "word": "impact",
+      "definition": "a strong effect or influence",
+      "examples": [
+        "The movie had a huge impact on me.",
+        "Her speech made a great impact on the audience.",
+        "Good books can leave a lasting impact on your thinking."
+      ]
     }
   ]
 }
